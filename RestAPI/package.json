@@ -1,0 +1,14 @@
+{
+  "name": "api_pizzaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maratona 20-08-2019",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
